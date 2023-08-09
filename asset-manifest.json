@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio-website/static/css/main.fe5fea21.css",
+    "main.js": "/personal-portfolio-website/static/js/main.e2642359.js",
+    "static/media/logo.png": "/personal-portfolio-website/static/media/logo.c6aebd93ab7e858acc0e.png",
+    "static/media/blog-thumb-1.jpg": "/personal-portfolio-website/static/media/blog-thumb-1.e3657f2512d521ff0a7a.jpg",
+    "static/media/blog-thumb-3.jpg": "/personal-portfolio-website/static/media/blog-thumb-3.0c043fcb8456838400a9.jpg",
+    "static/media/vector-background.png": "/personal-portfolio-website/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
+    "static/media/blog-thumb-2.jpg": "/personal-portfolio-website/static/media/blog-thumb-2.984eedb46e637f49cfc0.jpg",
+    "static/media/thumb-1.jpg": "/personal-portfolio-website/static/media/thumb-1.984eedb46e637f49cfc0.jpg",
+    "static/media/thumb-5.jpg": "/personal-portfolio-website/static/media/thumb-5.27ea789b3b4ba71bd800.jpg",
+    "static/media/thumb-6.jpg": "/personal-portfolio-website/static/media/thumb-6.26e955c3cd18b48dc98b.jpg",
+    "static/media/thumb-8.jpg": "/personal-portfolio-website/static/media/thumb-8.cdf9b9f4de1c899f5bcc.jpg",
+    "static/media/thumb-4.jpg": "/personal-portfolio-website/static/media/thumb-4.ca0a5db1714d4ca43d24.jpg",
+    "static/media/thumb-3.jpg": "/personal-portfolio-website/static/media/thumb-3.7e550fc264d45366b663.jpg",
+    "static/media/girl.png": "/personal-portfolio-website/static/media/girl.582af095ed59deebe310.png",
+    "static/media/tech-icons.png": "/personal-portfolio-website/static/media/tech-icons.bba568408fb42fa031c8.png",
+    "static/media/thumb-7.jpg": "/personal-portfolio-website/static/media/thumb-7.ce14c76ba50f932d14d4.jpg",
+    "static/media/thumb-2.jpg": "/personal-portfolio-website/static/media/thumb-2.5a21a5409f6da3f2ef9e.jpg",
+    "static/media/cloud-soft.png": "/personal-portfolio-website/static/media/cloud-soft.4a7c46b961e63488802b.png",
+    "index.html": "/personal-portfolio-website/index.html",
+    "main.fe5fea21.css.map": "/personal-portfolio-website/static/css/main.fe5fea21.css.map",
+    "main.e2642359.js.map": "/personal-portfolio-website/static/js/main.e2642359.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5fea21.css",
+    "static/js/main.e2642359.js"
+  ]
+}
